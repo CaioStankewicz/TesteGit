@@ -12,7 +12,8 @@ body {
 }
 
 .direita {
-    margin-right: 0;
+    display: block;
+    margin-left: auto;
     font-size: 45px;
 }
 
