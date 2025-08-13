@@ -4,8 +4,8 @@ body {
     align-items: center;
     background-color: #f0f5f0;
     padding: 10px;
-    padding-top: 70px;
-    padding-bottom: 70px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     border: #444 solid 1px;
     transition: background-color 0.3s ease;
 }
