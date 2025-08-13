@@ -2,19 +2,12 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
     background-color: #f0f5f0;
     padding: 10px;
     padding-top: 70px;
     padding-bottom: 70px;
     border: #444 solid 1px;
     transition: background-color 0.3s ease;
-}
-
-.direita {
-    display: block;
-    margin-left: auto;
-    font-size: 45px;
 }
 
 #webcam {
@@ -29,7 +22,14 @@ body {
     color: #999;
 }
 
+h2 {
+    font-size: 40px;
+    align-self: flex-end;
+    text-align: right;
+}
+
 h1 {
+    text-align: center;
     font-size: 40px;
     color: darkred;
 }
